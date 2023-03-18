@@ -1,6 +1,6 @@
 package exceptionday6;
 
-public class ExecptionDemo2 {
+public class ExecptionDemo2 {// here program run by right click then run configure then change arguments
 
 	public static void main(String[] args) {// args is known as command line arguments
 		// TODO Auto-generated method stub
